@@ -1,0 +1,312 @@
+Employee_Name,EmpID,DeptID,PerfScoreID,Salary,ManagerName,ManagerID,DateofHire,EmpStatus,Email
+"Adinolfi, Wilson",10026,5,4,62506,Michael Albert,22,7/5/11,FT,Adinolfi@corpmail.com
+"Ait Sidi, Karthikeyan   ",10084,3,3,104437,Simon Roup,4,3/30/2015,PT,Ait Sidi@corpmail.com
+"Akinkuolie, Sarah",10196,5,3,64955,Kissy Sullivan,20,7/5/11,C,Akinkuolie@corpmail.com
+"Alagbe,Trina",10088,5,3,64991,Elijiah Gray,16,1/7/08,C,Alagbe@corpmail.com
+"Anderson, Carol ",10069,5,3,50825,Webster Butler,39,7/11/11,FT,Anderson@corpmail.com
+"Anderson, Linda  ",10002,5,4,57568,Amy Dunn,11,1/9/12,FT,Anderson@corpmail.com
+"Andreola, Colby",10194,4,3,95660,Alex Sweetwater,10,11/10/14,FT,Andreola@corpmail.com
+"Athwal, Sam",10062,5,3,59365,Ketsia Liebig,19,9/30/2013,FT,Athwal@corpmail.com
+"Bachiochi, Linda",10114,5,3,47837,Brannon Miller,12,7/6/09,PT,Bachiochi@corpmail.com
+"Bacong, Alejandro ",10250,3,3,50178,Peter Monroe,7,1/5/15,PT,Bacong@corpmail.com
+"Baczenski, Rachael  ",10252,5,3,54670,David Stanley,14,1/10/11,FT,Baczenski@corpmail.com
+"Barbara, Thomas",10242,5,3,47211,Kissy Sullivan,20,4/2/12,FT,Barbara@corpmail.com
+"Barbossa, Hector",10012,3,4,92328,Simon Roup,4,11/10/14,PT,Barbossa@corpmail.com
+"Barone, Francesco",10265,5,3,58709,Kelley Spirea,18,2/20/2012,C,Barone@corpmail.com
+"Barton, Nader",10066,5,3,52505,Michael Albert,22,9/24/2012,C,Barton@corpmail.com
+"Bates, Norman",10061,5,3,57834,Kelley Spirea,18,2/21/2011,FT,Bates@corpmail.com
+"Beak, Kimberly  ",10023,5,4,70131,Kelley Spirea,18,7/21/2016,FT,Beak@corpmail.com
+"Beatrice, Courtney ",10055,5,3,59026,Elijiah Gray,16,4/4/11,FT,Beatrice@corpmail.com
+"Becker, Renee",10245,3,3,110000,Simon Roup,4,7/7/14,FT,Becker@corpmail.com
+"Becker, Scott",10277,5,3,53250,Webster Butler,39,7/8/13,PT,Becker@corpmail.com
+"Bernstein, Sean",10046,5,3,51044,Amy Dunn,11,4/2/12,PT,Bernstein@corpmail.com
+"Biden, Lowan",10226,5,3,64919,Ketsia Liebig,19,8/19/2013,FT,Biden@corpmail.com
+"Billis, Helen",10003,5,4,62910,Brannon Miller,12,7/7/14,PT,Billis@corpmail.com
+"Blount, Dianna",10294,5,2,66441,Michael Albert,22,4/4/11,C,Blount@corpmail.com
+"Bondwell, Betsy",10267,5,3,57815,Elijiah Gray,16,1/10/11,C,Bondwell@corpmail.com
+"Booth, Frank",10199,3,3,103613,Simon Roup,4,2/17/2014,FT,Booth@corpmail.com
+"Boutwell, Bonalyn",10081,1,3,106367,Brandon R. LeBlanc,3,2/16/2015,FT,Boutwell@corpmail.com
+"Bozzi, Charles",10175,5,3,74312,Janet King,2,9/30/2013,FT,Bozzi@corpmail.com
+"Brill, Donna",10177,5,3,53492,David Stanley,14,4/2/12,FT,Brill@corpmail.com
+"Brown, Mia",10238,1,3,63000,Brandon R. LeBlanc,1,10/27/2008,PT,Brown@corpmail.com
+"Buccheri, Joseph  ",10184,5,3,65288,Webster Butler,39,9/29/2014,PT,Buccheri@corpmail.com
+"Bugali, Josephine ",10203,5,3,64375,Kissy Sullivan,20,11/11/13,FT,Bugali@corpmail.com
+"Bunbury, Jessica",10188,6,3,74326,John Smith,17,8/15/2011,FT,Bunbury@corpmail.com
+"Burke, Joelle",10107,5,3,63763,Amy Dunn,11,3/5/12,PT,Burke@corpmail.com
+"Burkett, Benjamin ",10181,5,3,62162,Ketsia Liebig,19,4/4/11,C,Burkett@corpmail.com
+"Cady, Max ",10150,4,3,77692,Jennifer Zamora,5,8/15/2011,C,Cady@corpmail.com
+"Candie, Calvin",10001,5,4,72640,Janet King,2,1/28/2016,FT,Candie@corpmail.com
+"Carabbio, Judith",10085,4,3,93396,Alex Sweetwater,10,11/11/13,FT,Carabbio@corpmail.com
+"Carey, Michael  ",10115,5,3,52846,Kelley Spirea,18,3/31/2014,FT,Carey@corpmail.com
+"Carr, Claudia",10082,3,3,100031,Simon Roup,4,6/30/2016,FT,Carr@corpmail.com
+"Carter, Michelle ",10040,6,3,71860,John Smith,17,8/18/2014,PT,Carter@corpmail.com
+"Chace, Beatrice ",10067,5,3,61656,Michael Albert,22,9/29/2014,PT,Chace@corpmail.com
+"Champaigne, Brian",10108,3,3,110929,Jennifer Zamora,5,9/6/16,FT,Champaigne@corpmail.com
+"Chan, Lin",10210,5,3,54237,Elijiah Gray,16,5/12/14,PT,Chan@corpmail.com
+"Chang, Donovan",10154,5,3,60380,Webster Butler,39,7/8/13,C,Chang@corpmail.com
+"Chigurh, Anton",10200,6,3,66808,Lynn Daneault,21,5/14/2012,C,Chigurh@corpmail.com
+"Chivukula, Enola",10240,5,3,64786,Amy Dunn,11,6/27/2011,FT,Chivukula@corpmail.com
+"Cierpiszewski, Caroline  ",10168,5,3,64816,Ketsia Liebig,19,10/3/11,FT,Cierpiszewski@corpmail.com
+"Clayton, Rick",10220,3,3,68678,Eric Dougall,6,9/5/12,FT,Clayton@corpmail.com
+"Cloninger, Jennifer",10275,5,3,64066,Brannon Miller,12,5/16/2011,FT,Cloninger@corpmail.com
+"Close, Phil",10269,5,3,59369,David Stanley,14,8/30/2010,PT,Close@corpmail.com
+"Clukey, Elijian",10029,5,4,50373,Brannon Miller,12,7/6/16,PT,Clukey@corpmail.com
+"Cockel, James",10261,5,3,63108,David Stanley,14,7/8/13,FT,Cockel@corpmail.com
+"Cole, Spencer",10292,5,2,59144,Kissy Sullivan,20,7/11/11,FT,Cole@corpmail.com
+"Corleone, Michael",10282,5,2,68051,Janet King,2,7/20/2010,PT,Corleone@corpmail.com
+"Corleone, Vito",10019,5,4,170500,Janet King,2,1/5/09,C,Corleone@corpmail.com
+"Cornett, Lisa ",10094,5,3,63381,Kelley Spirea,18,1/5/15,C,Cornett@corpmail.com
+"Costello, Frank",10193,3,3,83552,Simon Roup,4,3/30/2015,FT,Costello@corpmail.com
+"Crimmings, Jean",10132,5,3,56149,Michael Albert,22,7/6/16,FT,Crimmings@corpmail.com
+"Cross, Noah",10083,3,3,92329,Peter Monroe,7,11/10/14,FT,Cross@corpmail.com
+"Daneault, Lynn",10099,6,3,65729,Debra Houlihan,15,5/5/14,FT,Daneault@corpmail.com
+"Daniele, Ann  ",10212,3,3,85028,Peter Monroe,7,11/10/14,PT,Daniele@corpmail.com
+"Darson, Jene",10056,5,3,57583,Elijiah Gray,16,7/2/12,PT,Darson@corpmail.com
+"Davis, Daniel",10143,5,3,56294,Kissy Sullivan,20,11/7/11,FT,Davis@corpmail.com
+"Dee, Randy",10311,6,1,56991,Brannon Miller,12,7/9/18,PT,Dee@corpmail.com
+"DeGweck, James",10070,5,3,55722,Webster Butler,39,5/16/2011,C,DeGweck@corpmail.com
+"Del Bosque, Keyla",10155,4,3,101199,Alex Sweetwater,10,1/9/12,C,Del Bosque@corpmail.com
+"Delarge, Alex",10306,6,1,61568,John Smith,17,9/29/2014,FT,Delarge@corpmail.com
+"Demita, Carla",10100,5,3,58275,Kelley Spirea,18,4/4/11,FT,Demita@corpmail.com
+"Desimone, Carl ",10310,5,1,53189,Amy Dunn,11,7/7/14,FT,Desimone@corpmail.com
+"DeVito, Tommy",10197,3,3,96820,Brian Champaigne,13,2/15/2017,FT,DeVito@corpmail.com
+"Dickinson, Geoff ",10276,5,3,51259,Ketsia Liebig,19,5/12/14,PT,Dickinson@corpmail.com
+"Dietrich, Jenna  ",10304,6,1,59231,John Smith,17,2/20/2012,PT,Dietrich@corpmail.com
+"DiNocco, Lily ",10284,5,2,61584,Brannon Miller,12,1/7/13,FT,DiNocco@corpmail.com
+"Dobrin, Denisa",10207,5,3,46335,David Stanley,14,4/2/12,FT,Dobrin@corpmail.com
+"Dolan, Linda",10133,3,3,70621,Peter Monroe,7,1/5/15,PT,Dolan@corpmail.com
+"Dougall, Eric",10028,3,4,138888,Jennifer Zamora,5,1/5/14,C,Dougall@corpmail.com
+"Driver, Elle",10006,6,4,74241,Lynn Daneault,21,1/10/11,C,Driver@corpmail.com
+"Dunn, Amy  ",10105,5,3,75188,Janet King,2,9/18/2014,FT,Dunn@corpmail.com
+"Dunne, Amy",10211,5,3,62514,Ketsia Liebig,19,4/26/2010,FT,Dunne@corpmail.com
+"Eaton, Marianne",10064,5,3,60070,Kissy Sullivan,20,4/4/11,FT,Eaton@corpmail.com
+"Engdahl, Jean",10247,5,3,48888,Kelley Spirea,18,11/10/14,FT,Engdahl@corpmail.com
+"England, Rex",10235,5,3,54285,Kelley Spirea,18,3/31/2014,PT,England@corpmail.com
+"Erilus, Angela",10299,5,1,56847,Michael Albert,22,7/7/14,PT,Erilus@corpmail.com
+"Estremera, Miguel",10280,5,2,60340,Michael Albert,22,4/2/12,FT,Estremera@corpmail.com
+"Evensen, April",10296,5,2,59124,Elijiah Gray,16,2/17/2014,PT,Evensen@corpmail.com
+"Exantus, Susan",10290,4,2,99280,Alex Sweetwater,10,5/2/11,C,Exantus@corpmail.com
+"Faller, Megan ",10263,5,3,71776,Elijiah Gray,16,7/7/14,C,Faller@corpmail.com
+"Fancett, Nicole",10136,5,3,65902,Webster Butler,39,2/17/2014,FT,Fancett@corpmail.com
+"Ferguson, Susan",10189,5,3,57748,Webster Butler,39,11/7/11,FT,Ferguson@corpmail.com
+"Fernandes, Nilson  ",10308,5,1,64057,Amy Dunn,11,5/11/15,FT,Fernandes@corpmail.com
+"Fett, Boba",10309,3,1,53366,Peter Monroe,7,3/30/2015,FT,Fett@corpmail.com
+"Fidelia,  Libby",10049,5,3,58530,Brannon Miller,12,1/9/12,PT,Fidelia@corpmail.com
+"Fitzpatrick, Michael",10093,5,3,72609,Amy Dunn,11,5/16/2011,PT,Fitzpatrick@corpmail.com
+"Foreman, Tanya",10163,5,3,55965,Ketsia Liebig,19,4/4/11,FT,Foreman@corpmail.com
+"Forrest, Alex",10305,6,3,70187,Lynn Daneault,21,9/29/2014,FT,Forrest@corpmail.com
+"Foss, Jason",10015,3,4,178000,Jennifer Zamora,5,4/15/2011,PT,Foss@corpmail.com
+"Foster-Baker, Amy",10080,1,3,99351,Board of Directors,9,1/5/09,C,Foster-Baker@corpmail.com
+"Fraval, Maruk ",10258,6,3,67251,Lynn Daneault,21,9/6/11,C,Fraval@corpmail.com
+"Galia, Lisa",10273,3,3,65707,Eric Dougall,6,5/1/10,FT,Galia@corpmail.com
+"Garcia, Raul",10111,5,3,52249,David Stanley,14,3/30/2015,FT,Garcia@corpmail.com
+"Gaul, Barbara",10257,5,3,53171,Kelley Spirea,18,5/16/2011,FT,Gaul@corpmail.com
+"Gentry, Mildred",10159,5,3,51337,Michael Albert,22,3/30/2015,FT,Gentry@corpmail.com
+"Gerke, Melisa",10122,5,3,51505,Elijiah Gray,16,11/7/11,PT,Gerke@corpmail.com
+"Gill, Whitney  ",10142,6,3,59370,John Smith,17,7/7/14,PT,Gill@corpmail.com
+"Gilles, Alex",10283,5,2,54933,Webster Butler,39,4/2/12,FT,Gilles@corpmail.com
+"Girifalco, Evelyn",10018,5,4,57815,Amy Dunn,11,9/29/2014,PT,Girifalco@corpmail.com
+"Givens, Myriam",10255,6,3,61555,Lynn Daneault,21,2/16/2015,C,Givens@corpmail.com
+"Goble, Taisha",10246,3,3,114800,Simon Roup,4,2/16/2015,C,Goble@corpmail.com
+"Goeth, Amon",10228,3,3,74679,Peter Monroe,7,3/30/2015,FT,Goeth@corpmail.com
+"Gold, Shenice  ",10243,5,3,53018,Ketsia Liebig,19,11/11/13,FT,Gold@corpmail.com
+"Gonzalez, Cayo",10031,5,4,59892,Brannon Miller,12,7/11/11,FT,Gonzalez@corpmail.com
+"Gonzalez, Juan",10300,5,1,68898,Brannon Miller,12,4/26/2010,FT,Gonzalez@corpmail.com
+"Gonzalez, Maria",10101,3,3,61242,Peter Monroe,7,1/5/15,PT,Gonzalez@corpmail.com
+"Good, Susan",10237,5,3,66825,David Stanley,14,5/12/14,PT,Good@corpmail.com
+"Gordon, David",10051,5,3,48285,David Stanley,14,7/2/12,FT,Gordon@corpmail.com
+"Gosciminski, Phylicia  ",10218,5,3,66149,Kissy Sullivan,20,9/30/2013,FT,Gosciminski@corpmail.com
+"Goyal, Roxana",10256,5,3,49256,Kissy Sullivan,20,8/19/2013,PT,Goyal@corpmail.com
+"Gray, Elijiah  ",10098,5,3,62957,Janet King,2,6/2/15,C,Gray@corpmail.com
+"Gross, Paula",10059,5,3,63813,Kelley Spirea,18,2/21/2011,C,Gross@corpmail.com
+"Gruber, Hans",10234,3,3,99020,Brian Champaigne,13,4/20/2017,FT,Gruber@corpmail.com
+"Guilianno, Mike",10109,6,3,71707,John Smith,17,3/7/12,FT,Guilianno@corpmail.com
+"Handschiegl, Joanne",10125,5,3,54828,Michael Albert,22,11/28/2011,FT,Handschiegl@corpmail.com
+"Hankard, Earnest",10074,5,3,64246,Kelley Spirea,18,11/11/13,FT,Hankard@corpmail.com
+"Harrington, Christie ",10097,5,3,52177,Webster Butler,39,1/9/12,PT,Harrington@corpmail.com
+"Harrison, Kara",10007,5,4,62065,Amy Dunn,11,5/12/14,PT,Harrison@corpmail.com
+"Heitzman, Anthony",10129,5,3,46998,Ketsia Liebig,19,8/13/2012,FT,Heitzman@corpmail.com
+"Hendrickson, Trina",10075,5,3,68099,Kelley Spirea,18,1/10/11,PT,Hendrickson@corpmail.com
+"Hitchcock, Alfred",10167,6,3,70545,John Smith,17,8/18/2014,C,Hitchcock@corpmail.com
+"Homberger, Adrienne ",10195,5,3,63478,Michael Albert,30,8/15/2011,C,Homberger@corpmail.com
+"Horton, Jayne",10112,3,3,97999,Simon Roup,4,3/30/2015,FT,Horton@corpmail.com
+"Houlihan, Debra",10272,6,3,180000,Janet King,2,5/5/14,FT,Houlihan@corpmail.com
+"Howard, Estelle",10182,1,3,49920,Brandon R. LeBlanc,1,2/16/2015,FT,Howard@corpmail.com
+"Hudson, Jane",10248,5,3,55425,Ketsia Liebig,19,2/20/2012,FT,Hudson@corpmail.com
+"Hunts, Julissa",10201,5,3,69340,Elijiah Gray,16,6/6/16,PT,Hunts@corpmail.com
+"Hutter, Rosalie",10214,5,3,64995,Webster Butler,39,6/5/15,PT,Hutter@corpmail.com
+"Huynh, Ming",10160,5,3,68182,Amy Dunn,11,2/21/2011,FT,Huynh@corpmail.com
+"Immediato, Walter",10289,5,2,83082,Janet King,2,2/21/2011,FT,Immediato@corpmail.com
+"Ivey, Rose ",10139,5,3,51908,Brannon Miller,12,8/19/2013,PT,Ivey@corpmail.com
+"Jackson, Maryellen",10227,5,3,61242,David Stanley,14,11/5/12,C,Jackson@corpmail.com
+"Jacobi, Hannah  ",10236,5,3,45069,Kissy Sullivan,20,9/30/2013,C,Jacobi@corpmail.com
+"Jeannite, Tayana",10009,5,4,60724,Ketsia Liebig,19,7/5/11,FT,Jeannite@corpmail.com
+"Jhaveri, Sneha  ",10060,5,3,60436,Kelley Spirea,18,1/6/14,FT,Jhaveri@corpmail.com
+"Johnson, George",10034,5,4,46837,Michael Albert,22,11/7/11,FT,Johnson@corpmail.com
+"Johnson, Noelle ",10156,3,3,105700,Simon Roup,4,1/5/15,FT,Johnson@corpmail.com
+"Johnston, Yen",10036,5,4,63322,Brannon Miller,12,7/7/14,PT,Johnston@corpmail.com
+"Jung, Judy  ",10138,5,3,61154,Elijiah Gray,16,1/10/11,PT,Jung@corpmail.com
+"Kampew, Donysha",10244,6,3,68999,Debra Houlihan,15,11/7/11,FT,Kampew@corpmail.com
+"Keatts, Kramer ",10192,5,3,50482,Michael Albert,22,9/30/2013,PT,Keatts@corpmail.com
+"Khemmich, Bartholemew",10231,6,3,65310,Lynn Daneault,21,8/19/2013,C,Khemmich@corpmail.com
+"King, Janet",10089,2,3,250000,Board of Directors,9,7/2/12,C,King@corpmail.com
+"Kinsella, Kathleen  ",10166,5,3,54005,Webster Butler,39,9/26/2011,FT,Kinsella@corpmail.com
+"Kirill, Alexandra  ",10170,5,3,45433,Amy Dunn,11,9/26/2011,FT,Kirill@corpmail.com
+"Knapp, Bradley",10208,5,3,46654,Ketsia Liebig,19,2/17/2014,FT,Knapp@corpmail.com
+"Kretschmer, John",10176,5,3,63973,Brannon Miller,12,1/10/11,FT,Kretschmer@corpmail.com
+"Kreuger, Freddy",10165,6,3,71339,John Smith,17,3/7/11,PT,Kreuger@corpmail.com
+"Lajiri, Jyoti",10113,3,3,93206,Peter Monroe,7,11/10/14,PT,Lajiri@corpmail.com
+"Landa, Hans",10092,5,3,82758,Janet King,2,1/10/11,FT,Landa@corpmail.com
+"Langford, Lindsey",10106,5,3,66074,David Stanley,14,1/7/13,FT,Langford@corpmail.com
+"Langton, Enrico",10052,5,3,46120,David Stanley,14,7/9/12,PT,Langton@corpmail.com
+"LaRotonda, William  ",10038,1,3,64520,Brandon R. LeBlanc,1,1/6/14,C,LaRotonda@corpmail.com
+"Latif, Mohammed",10249,5,3,61962,Kissy Sullivan,20,4/2/12,C,Latif@corpmail.com
+"Le, Binh",10232,3,3,81584,Brian Champaigne,13,10/2/16,FT,Le@corpmail.com
+"Leach, Dallas",10087,5,3,63676,Kissy Sullivan,20,9/26/2011,FT,Leach@corpmail.com
+"LeBlanc, Brandon",10134,1,3,93046,Janet King,2,1/5/16,FT,LeBlanc@corpmail.com
+"Lecter, Hannibal",10251,5,3,64738,Elijiah Gray,16,5/14/2012,FT,Lecter@corpmail.com
+"Leruth, Giovanni",10103,6,3,70468,John Smith,17,4/30/2012,PT,Leruth@corpmail.com
+"Liebig, Ketsia",10017,5,4,77915,Janet King,2,9/30/2013,PT,Liebig@corpmail.com
+"Linares, Marilyn ",10186,5,3,52624,Michael Albert,22,7/5/11,FT,Linares@corpmail.com
+"Linden, Mathew",10137,5,3,63450,Kelley Spirea,18,7/8/13,PT,Linden@corpmail.com
+"Lindsay, Leonara ",10008,3,4,51777,Eric Dougall,6,1/21/2011,C,Lindsay@corpmail.com
+"Lundy, Susan",10096,5,3,67237,Michael Albert,22,7/8/13,C,Lundy@corpmail.com
+"Lunquist, Lisa",10035,5,4,73330,Elijiah Gray,16,8/19/2013,FT,Lunquist@corpmail.com
+"Lydon, Allison",10057,5,3,52057,Elijiah Gray,16,2/16/2015,FT,Lydon@corpmail.com
+"Lynch, Lindsay",10004,5,4,47434,Webster Butler,39,11/7/11,FT,Lynch@corpmail.com
+"MacLennan, Samuel",10191,5,3,52788,Amy Dunn,11,9/24/2012,FT,MacLennan@corpmail.com
+"Mahoney, Lauren  ",10219,5,3,45395,Ketsia Liebig,19,1/6/14,PT,Mahoney@corpmail.com
+"Manchester, Robyn",10077,5,3,62385,Webster Butler,39,5/11/16,PT,Manchester@corpmail.com
+"Mancuso, Karen",10073,5,3,68407,Amy Dunn,11,7/5/11,FT,Mancuso@corpmail.com
+"Mangal, Debbie",10279,5,3,61349,Brannon Miller,12,11/11/13,FT,Mangal@corpmail.com
+"Martin, Sandra",10110,4,3,105688,Alex Sweetwater,10,11/11/13,PT,Martin@corpmail.com
+"Maurice, Shana",10053,5,3,54132,David Stanley,14,5/31/2011,C,Maurice@corpmail.com
+"Carthy, Brigit",10076,5,3,55315,Ketsia Liebig,19,3/30/2015,C,Carthy@corpmail.com
+"Mckenna, Sandy",10145,5,3,62810,Kissy Sullivan,20,1/7/13,FT,Mckenna@corpmail.com
+"McKinzie, Jac",10202,6,3,63291,Lynn Daneault,21,7/6/16,FT,McKinzie@corpmail.com
+"Meads, Elizabeth",10128,5,3,62659,Kelley Spirea,18,4/2/12,FT,Meads@corpmail.com
+"Medeiros, Jennifer",10068,5,3,55688,Michael Albert,22,3/30/2015,FT,Medeiros@corpmail.com
+"Miller, Brannon",10116,5,3,83667,Janet King,2,8/16/2012,PT,Miller@corpmail.com
+"Miller, Ned",10298,5,1,55800,Brannon Miller,12,8/15/2011,PT,Miller@corpmail.com
+"Monkfish, Erasumus",10213,5,3,58207,David Stanley,14,11/7/11,FT,Monkfish@corpmail.com
+"Monroe, Peter",10288,3,2,157000,Jennifer Zamora,5,2/15/2012,PT,Monroe@corpmail.com
+"Monterro, Luisa",10025,5,4,72460,Kissy Sullivan,20,5/13/2013,C,Monterro@corpmail.com
+"Moran, Patrick",10223,5,3,72106,Kelley Spirea,18,1/9/12,C,Moran@corpmail.com
+"Morway, Tanya",10151,3,3,52599,Peter Monroe,7,2/16/2015,FT,Morway@corpmail.com
+"Motlagh,  Dawn",10254,5,3,63430,Elijiah Gray,16,4/1/13,FT,Motlagh@corpmail.com
+"Moumanil, Maliki ",10120,5,3,74417,Michael Albert,22,5/13/2013,FT,Moumanil@corpmail.com
+"Myers, Michael",10216,5,3,57575,Kissy Sullivan,20,7/8/13,FT,Myers@corpmail.com
+"Navathe, Kurt",10079,3,3,87921,Brian Champaigne,13,2/10/17,PT,Navathe@corpmail.com
+"Ndzi, Colombui",10215,5,3,50470,Webster Butler,39,9/26/2011,PT,Ndzi@corpmail.com
+"Ndzi, Horia",10185,5,3,46664,Amy Dunn,11,4/1/13,FT,Ndzi@corpmail.com
+"Newman, Richard ",10063,5,3,48495,Ketsia Liebig,19,5/12/14,FT,Newman@corpmail.com
+"Ngodup, Shari ",10037,5,4,52984,Brannon Miller,12,4/1/13,PT,Ngodup@corpmail.com
+"Nguyen, Dheepa",10042,6,3,63695,Lynn Daneault,21,7/8/13,C,Nguyen@corpmail.com
+"Nguyen, Lei-Ming",10206,5,3,62061,David Stanley,14,7/8/13,C,Nguyen@corpmail.com
+"Nowlan, Kristie",10104,5,3,66738,Elijiah Gray,16,11/10/14,FT,Nowlan@corpmail.com
+"O'hare, Lynn",10303,5,1,52674,Kissy Sullivan,20,3/31/2014,FT,O'hare@corpmail.com
+"Oliver, Brooke ",10078,5,3,71966,Webster Butler,39,5/14/2012,FT,Oliver@corpmail.com
+"Onque, Jasmine",10121,6,3,63051,Lynn Daneault,21,9/30/2013,FT,Onque@corpmail.com
+"Osturnka, Adeel",10021,5,4,47414,Kelley Spirea,18,9/30/2013,PT,Osturnka@corpmail.com
+"Owad, Clinton",10281,5,2,53060,Michael Albert,22,2/17/2014,PT,Owad@corpmail.com
+"Ozark, Travis",10041,6,3,68829,John Smith,17,1/5/15,FT,Ozark@corpmail.com
+"Panjwani, Nina",10148,5,3,63515,Elijiah Gray,16,2/7/11,PT,Panjwani@corpmail.com
+"Patronick, Lucas",10005,4,4,108987,Alex Sweetwater,10,11/7/11,C,Patronick@corpmail.com
+"Pearson, Randall",10259,3,3,93093,Simon Roup,4,12/1/14,C,Pearson@corpmail.com
+"Smith, Martin",10286,5,2,53564,Webster Butler,39,1/10/11,FT,Smith@corpmail.com
+"Pelletier, Ermine",10297,5,2,60270,Amy Dunn,11,7/5/11,FT,Pelletier@corpmail.com
+"Perry, Shakira",10171,5,3,45998,Amy Dunn,11,5/16/2011,FT,Perry@corpmail.com
+"Peters, Lauren",10032,5,4,57954,Ketsia Liebig,19,5/16/2011,FT,Peters@corpmail.com
+"Peterson, Ebonee  ",10130,5,3,74669,Janet King,2,10/25/2010,PT,Peterson@corpmail.com
+"Petingill, Shana  ",10217,5,3,74226,Brannon Miller,12,4/2/12,PT,Petingill@corpmail.com
+"Petrowsky, Thelma",10016,3,4,93554,Simon Roup,4,11/10/14,FT,Petrowsky@corpmail.com
+"Pham, Hong",10050,5,3,64724,Brannon Miller,12,7/5/11,FT,Pham@corpmail.com
+"Pitt, Brad ",10164,5,3,47001,David Stanley,14,11/5/07,PT,Pitt@corpmail.com
+"Potts, Xana",10124,6,3,61844,Lynn Daneault,21,1/9/12,C,Potts@corpmail.com
+"Power, Morissa",10187,5,3,46799,Kissy Sullivan,20,5/16/2011,C,Power@corpmail.com
+"Punjabhi, Louis  ",10225,5,3,59472,Kelley Spirea,18,1/6/14,FT,Punjabhi@corpmail.com
+"Purinton, Janine",10262,5,3,46430,Kissy Sullivan,20,9/24/2012,FT,Purinton@corpmail.com
+"Quinn, Sean",10131,1,3,83363,Janet King,2,2/21/2011,FT,Quinn@corpmail.com
+"Rachael, Maggie",10239,3,3,95920,Brian Champaigne,13,10/2/16,FT,Rachael@corpmail.com
+"Rarrick, Quinn",10152,5,3,61729,Michael Albert,22,9/26/2011,PT,Rarrick@corpmail.com
+"Ren, Kylo",10140,6,3,61809,John Smith,17,5/12/14,PT,Ren@corpmail.com
+"Rhoads, Thomas",10058,5,3,45115,Elijiah Gray,16,5/16/2011,FT,Rhoads@corpmail.com
+"Rivera, Haley  ",10011,5,4,46738,Webster Butler,39,11/28/2011,PT,Rivera@corpmail.com
+"Roberson, May",10230,5,3,64971,David Stanley,14,9/26/2011,C,Roberson@corpmail.com
+"Robertson, Peter",10224,5,3,55578,Kissy Sullivan,20,7/5/11,C,Robertson@corpmail.com
+"Robinson, Alain  ",10047,5,3,50428,Amy Dunn,11,1/10/11,FT,Robinson@corpmail.com
+"Robinson, Cherly",10285,5,2,61422,Ketsia Liebig,19,1/10/11,FT,Robinson@corpmail.com
+"Robinson, Elias",10020,5,4,63353,Brannon Miller,12,7/8/13,FT,Robinson@corpmail.com
+"Roby, Lori ",10162,3,3,89883,Simon Roup,4,2/16/2015,FT,Roby@corpmail.com
+"Roehrich, Bianca",10149,3,3,120000,Simon Roup,4,1/5/15,PT,Roehrich@corpmail.com
+"Roper, Katie",10086,3,3,150290,Brian Champaigne,13,1/7/17,PT,Roper@corpmail.com
+"Rose, Ashley  ",10054,5,3,60627,David Stanley,14,1/6/14,FT,Rose@corpmail.com
+"Rossetti, Bruno",10065,5,3,53180,Kissy Sullivan,20,4/4/11,FT,Rossetti@corpmail.com
+"Roup,Simon",10198,3,3,140920,Jennifer Zamora,5,1/20/2013,PT,Roup@corpmail.com
+"Ruiz, Ricardo",10222,3,3,148999,Jennifer Zamora,5,1/9/12,C,Ruiz@corpmail.com
+"Saada, Adell",10126,4,3,86214,Alex Sweetwater,10,11/5/12,C,Saada@corpmail.com
+"Saar-Beckles, Melinda",10295,5,2,47750,Kelley Spirea,18,7/4/16,FT,Saar-Beckles@corpmail.com
+"Sadki, Nore  ",10260,5,3,46428,Michael Albert,22,1/5/09,FT,Sadki@corpmail.com
+"Sahoo, Adil",10233,5,3,57975,Kelley Spirea,18,8/30/2010,FT,Sahoo@corpmail.com
+"Salter, Jason",10229,3,3,88527,Simon Roup,4,1/5/15,FT,Salter@corpmail.com
+"Sander, Kamrin",10169,5,3,56147,Elijiah Gray,16,9/29/2014,PT,Sander@corpmail.com
+"Sewkumar, Nori",10071,5,3,50923,Webster Butler,39,9/30/2013,PT,Sewkumar@corpmail.com
+"Shepard, Anita ",10179,3,3,50750,Peter Monroe,7,9/30/2014,FT,Shepard@corpmail.com
+"Shields, Seffi",10091,5,3,52087,Amy Dunn,11,8/19/2013,PT,Shields@corpmail.com
+"Simard, Kramer",10178,3,3,87826,Simon Roup,4,1/5/15,C,Simard@corpmail.com
+"Singh, Nan ",10039,1,3,51920,Brandon R. LeBlanc,1,5/1/15,C,Singh@corpmail.com
+"Sloan, Constance",10095,5,3,63878,Michael Albert,22,10/26/2009,FT,Sloan@corpmail.com
+"Smith, Joe",10027,5,4,60656,Elijiah Gray,16,9/29/2014,FT,Smith@corpmail.com
+"Smith, John",10291,6,2,72992,Debra Houlihan,15,5/18/2014,FT,Smith@corpmail.com
+"Smith, Leigh Ann",10153,1,3,55000,Brandon R. LeBlanc,1,9/26/2011,FT,Smith@corpmail.com
+"Smith, Sade",10157,5,3,58939,Ketsia Liebig,19,11/11/13,PT,Smith@corpmail.com
+"Soto, Julia ",10119,3,3,66593,Eric Dougall,6,6/10/11,PT,Soto@corpmail.com
+"Soze, Keyser",10180,3,3,87565,Peter Monroe,7,6/30/2016,FT,Soze@corpmail.com
+"Sparks, Taylor  ",10302,5,1,64021,Brannon Miller,12,2/20/2012,FT,Sparks@corpmail.com
+"Spirea, Kelley",10090,5,3,65714,Janet King,2,10/2/12,PT,Spirea@corpmail.com
+"Squatrito, Kristen",10030,5,4,62425,David Stanley,14,5/13/2013,C,Squatrito@corpmail.com
+"Stanford, Barbara ",10278,5,3,47961,Kissy Sullivan,20,1/10/11,C,Stanford@corpmail.com
+"Stansfield, Norman",10307,6,1,58273,Lynn Daneault,21,5/12/14,FT,Stansfield@corpmail.com
+"Steans, Tyrone  ",10147,1,3,63003,Brandon R. LeBlanc,1,9/29/2014,FT,Steans@corpmail.com
+"Stoica, Rick",10266,5,3,61355,Kelley Spirea,18,2/17/2014,FT,Stoica@corpmail.com
+"Strong, Caitrin",10241,6,3,60120,John Smith,17,9/27/2010,FT,Strong@corpmail.com
+"Sullivan, Kissy ",10158,5,3,63682,Janet King,2,1/8/09,PT,Sullivan@corpmail.com
+"Sullivan, Timothy",10117,5,3,63025,Michael Albert,22,1/5/15,PT,Sullivan@corpmail.com
+"Sutwell, Barbara",10209,5,3,59238,Elijiah Gray,16,5/14/2012,FT,Sutwell@corpmail.com
+"Szabo, Andrew",10024,4,4,92989,Alex Sweetwater,10,7/7/14,PT,Szabo@corpmail.com
+"Tannen, Biff",10173,3,3,90100,Brian Champaigne,13,4/20/2017,C,Tannen@corpmail.com
+"Tavares, Desiree  ",10221,5,3,60754,Webster Butler,39,4/27/2009,C,Tavares@corpmail.com
+"Tejeda, Lenora ",10146,5,3,72202,Elijiah Gray,16,5/16/2011,FT,Tejeda@corpmail.com
+"Terry, Sharlene ",10161,6,3,58370,Lynn Daneault,21,9/29/2014,FT,Terry@corpmail.com
+"Theamstern, Sophia",10141,5,3,48413,Amy Dunn,11,7/5/11,FT,Theamstern@corpmail.com
+"Thibaud, Kenneth",10268,5,3,67176,Webster Butler,39,6/25/2007,FT,Thibaud@corpmail.com
+"Tippett, Jeanette",10123,5,3,56339,Brannon Miller,12,2/18/2013,PT,Tippett@corpmail.com
+"Torrence, Jack",10013,6,4,64397,Lynn Daneault,21,1/9/06,PT,Torrence@corpmail.com
+"Trang, Mei",10287,5,2,63025,David Stanley,14,2/17/2014,FT,Trang@corpmail.com
+"Tredinnick, Neville ",10044,3,3,75281,Peter Monroe,7,1/5/15,FT,Tredinnick@corpmail.com
+"True, Edward",10102,4,3,100416,Alex Sweetwater,10,2/18/2013,PT,True@corpmail.com
+"Trzeciak, Cybil",10270,5,3,74813,Amy Dunn,11,1/10/11,C,Trzeciak@corpmail.com
+"Turpin, Jumil",10045,3,3,76029,Peter Monroe,7,3/30/2015,C,Turpin@corpmail.com
+"Valentin, Jackie",10205,6,3,57859,John Smith,17,7/5/11,FT,Valentin@corpmail.com
+"Veera, Abdellah ",10014,5,4,58523,Kissy Sullivan,20,8/13/2012,FT,Veera@corpmail.com
+"Vega, Vincent",10144,5,3,88976,Janet King,2,8/1/11,FT,Vega@corpmail.com
+"Villanueva, Noah",10253,6,3,55875,John Smith,17,3/5/12,FT,Villanueva@corpmail.com
+"Voldemort, Lord",10118,3,3,113999,Simon Roup,4,2/16/2015,PT,Voldemort@corpmail.com
+"Volk, Colleen",10022,5,4,49773,Kelley Spirea,18,9/26/2011,PT,Volk@corpmail.com
+"Von Massenbach, Anna",10183,5,3,62068,Michael Albert,22,7/5/15,FT,Von Massenbach@corpmail.com
+"Walker, Roger",10190,5,3,66541,Ketsia Liebig,19,8/18/2014,PT,Walker@corpmail.com
+"Wallace, Courtney",10274,5,3,80512,Janet King,2,9/26/2011,C,Wallace@corpmail.com
+"Wallace, Theresa",10293,5,2,50274,Elijiah Gray,16,8/13/2012,C,Wallace@corpmail.com
+"Wang, Charlie",10172,3,3,84903,Brian Champaigne,13,2/15/2017,FT,Wang@corpmail.com
+"Warfield, Sarah",10127,3,3,107226,Peter Monroe,7,3/30/2015,FT,Warfield@corpmail.com
+"Whittier, Scott",10072,5,3,58371,Webster Butler,39,1/10/11,FT,Whittier@corpmail.com
+"Wilber, Barry",10048,5,3,55140,Amy Dunn,11,5/16/2011,FT,Wilber@corpmail.com
+"Wilkes, Annie",10204,5,3,58062,Ketsia Liebig,19,1/10/11,PT,Wilkes@corpmail.com
+"Williams, Jacquelyn  ",10264,5,3,59728,Ketsia Liebig,19,1/9/12,PT,Williams@corpmail.com
+"Winthrop, Jordan  ",10033,5,4,70507,Brannon Miller,12,1/7/13,FT,Winthrop@corpmail.com
+"Wolk, Hang",10174,5,3,60446,David Stanley,14,9/29/2014,FT,Wolk@corpmail.com
+"Woodson, Jason",10135,5,3,65893,Kissy Sullivan,20,7/7/14,PT,Woodson@corpmail.com
+"Ybarra, Catherine ",10301,5,1,48513,Brannon Miller,12,9/2/08,C,Ybarra@corpmail.com
+"Zamora, Jennifer",10010,3,4,220450,Janet King,2,4/10/10,C,Zamora@corpmail.com
+"Zhou, Julia",10043,3,3,89292,Simon Roup,4,3/30/2015,FT,Zhou@corpmail.com
+"Zima, Colleen",10271,5,3,45046,David Stanley,14,9/29/2014,FT,Zima@corpmail.com
